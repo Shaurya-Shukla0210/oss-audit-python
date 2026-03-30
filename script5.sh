@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script 5: Open Source Manifesto Generator
+# Script 5: OpenSourceManifestoGenerator
 
 echo "Answer a few questions to generate your manifesto:"
 echo ""
