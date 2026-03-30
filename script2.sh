@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script 2: Python Package Inspector
+# Script 2: PythonPackageInspector
 
 PACKAGE="python3"
 
