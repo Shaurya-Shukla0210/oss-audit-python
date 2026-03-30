@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script 4: Log File Analyzer
+# Script 4: LogFileAnalyzer
 
 LOGFILE=$1
 KEYWORD=${2:-"error"}   # default keyword = error
